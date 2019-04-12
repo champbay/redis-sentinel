@@ -5,8 +5,4 @@ spring.redis.password=123456
 spring.redis.sentinel.master=mymaster
 spring.redis.sentinel.nodes=192.168.1.100:26379,192.168.1.100:26380,192.168.1.100:26381
 
-2，mvn clean package
-
-3，cd target
-
-4，java -jar redis-sentinel-0.0.1-SNAPSHOT.jar
+2，junit test
